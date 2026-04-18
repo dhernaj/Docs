@@ -1,17 +1,21 @@
-#Aquí está el paso 3 de la guía de laboratorio...
+### Paso 3: Configuración inicial
+Para empezar, debemos verificar que nuestro entorno esté funcionando correctamente ejecutando el script base. Sigue las instrucciones de tu terminal.
 
 <details>
-<summary>📚 <b>Ver Teoría Adicional: ¿Por qué ocurre esto?</b></summary>
+<summary>📚 <b>Ver Teoría Adicional y Ejercicio</b></summary>
 
-¡Asegúrate de dejar una línea en blanco arriba de este texto para que el Markdown funcione correctamente dentro de la etiqueta!
+**¿Por qué ocurre esto?**
+Cuando ejecutamos el script, el intérprete lee el archivo de arriba hacia abajo. Aquí hay un par de conceptos clave que debes recordar:
+* **Sintaxis:** Las mayúsculas y minúsculas importan.
+* **Salida estándar:** El resultado se mostrará directamente en tu consola.
 
-Aquí puedes escribir tu teoría usando Markdown normal:
-* Punto 1
-* Punto 2
+Un ejemplo básico de cómo se ve esto en la práctica es el siguiente:
 
 ```python
-# Incluso puedes poner bloques de código
+# Este código imprimirá un saludo en la consola
 print("Hola")
+
+</details>
 
 > [!NOTE]
 > **Teoría Adicional**
