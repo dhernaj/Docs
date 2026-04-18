@@ -12,3 +12,11 @@ Aquí puedes escribir tu teoría usando Markdown normal:
 ```python
 # Incluso puedes poner bloques de código
 print("Hola")
+
+> [!NOTE]
+> **Teoría Adicional**
+> El servidor utiliza el puerto 8080 por defecto porque...
+
+> [!TIP]
+> **Ejercicio de Afianzamiento**
+> ¿Qué comando usarías para verificar si el puerto 8080 está en uso antes de iniciar el servidor?
